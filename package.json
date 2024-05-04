@@ -1,0 +1,14 @@
+{
+  "name": "a1practical",
+  "version": "1.0.0",
+  "description": "assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "23011985",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
